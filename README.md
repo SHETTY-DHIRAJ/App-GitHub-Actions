@@ -1,1 +1,1 @@
-## This is the simple python application utilizing GitHub Aztions
+## This is the simple python application utilizing GitHub Actions

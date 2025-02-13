@@ -9,5 +9,3 @@ def test_subtract():
     assert subtract(1,2) == -1
     assert subtract(-1,1) == -2
     assert subtract(0,0) == 0
-
-# Run the tests
